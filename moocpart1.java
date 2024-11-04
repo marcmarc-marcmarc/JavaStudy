@@ -1,4 +1,4 @@
-public class mooc-part1 {
+public class moocpart1 {
   public static void main(String[]args) {
 
     System.out.println("Once upon a time");
