@@ -1,17 +1,8 @@
-import java.util.Scanner;
-
-public class to100{
+public class hole{
     public static void main(String[] args){
-        Scanner userNum = new Scanner(System.in);
-
-        System.out.println("Choose a number: ");
-        Integer start = userNum.nextInt();
-
-        while (start < 101){
-            System.out.println(start);
-            start ++
-
-        }
-            
+        printText();
+    }
+    public static void printText(){
+        System.out.println("In a hole in the ground there lived a method\n");
     }
 }
